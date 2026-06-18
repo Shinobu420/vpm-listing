@@ -16,6 +16,18 @@ body {
   justify-content: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: var(--neutral-foreground-rest);
+  background-color: #1d1d1d;
+}
+
+a {
+  color: #900c3f;
+  text-decoration: none;
+  transition: color 0.15s ease-in-out;
+}
+
+a:hover {
+  color: #c70039;
+  text-decoration: underline;
 }
 
 .hidden {
@@ -127,7 +139,7 @@ h1 {
 }
 
 .bannerImage {
-  aspect-ratio: 5 / 1;
+  aspect-ratio: 4 / 1;
   border-radius: 6px;
   max-width: 90%;
   width: 100%;
