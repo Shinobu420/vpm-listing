@@ -1,0 +1,19 @@
+{
+    "name":"Shino VRC Tools",
+    "id":"dev.shino.tools",
+    "url":"https://shinobu420.github.io/vpm-listing/index.json",
+    "author":{
+        "email":"112190455+Shinobu420@users.noreply.github.com",
+        "name":"Shinobu420",
+        "url":"https://github.com/Shinobu420"
+    },
+    "description":"VPM listing for Shino VRC Tools",
+    "infoLink":{
+        "url":"https://github.com/Shinobu420/Shino-Tools",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "Shinobu420/Shino-Tools"
+    ]
+}
